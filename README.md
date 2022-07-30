@@ -7,7 +7,7 @@ Version: Year 2 - Update 15
 You can download the game on [PKG-Zone](https://pkg-zone.com/details/RHZR00001).
 
 
-There is also a Proof of Concept version for the PSVita, VPK format, available for download in the releases section.
+**There is also a Proof of Concept version for the PSVita, VPK format, available for download in the releases section.**
 
 However, it suffers from low FPS in big and/or crowded areas.
 
